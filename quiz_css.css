@@ -1,6 +1,6 @@
 body
 {
-	background:skyblue;
+	background-image: linear-gradient(to right,yellow,orange);
 }
 
 	.login_div1 , .login_div2
